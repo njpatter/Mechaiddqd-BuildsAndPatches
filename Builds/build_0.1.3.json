@@ -996,7 +996,7 @@
     },
     {
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
-      "Size": 1605,
+      "Size": 1586,
       "LastWriting": "2021-01-21T00:01:54Z",
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
       "Attributes": 8224
@@ -1031,7 +1031,7 @@
     },
     {
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
-      "Size": 1605,
+      "Size": 1586,
       "LastWriting": "2021-01-21T00:01:54Z",
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
       "Attributes": 8224
@@ -1066,7 +1066,7 @@
     },
     {
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
-      "Size": 1605,
+      "Size": 1586,
       "LastWriting": "2021-01-21T00:01:54Z",
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s",
       "Attributes": 8224
