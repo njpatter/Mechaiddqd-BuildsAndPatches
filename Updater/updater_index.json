@@ -85,7 +85,7 @@
       "RelativePath": "Mechaiddqd.Patcher_Data/RuntimeInitializeOnLoads.json",
       "Attributes": 8224,
       "LastWriting": "2021-01-31T01:47:00.3810585Z",
-      "Size": 12,
+      "Size": 13,
       "Hash": "0uLZKz5Op1erRRv+CS9Q8MFC2qo"
     },
     {
@@ -1101,7 +1101,7 @@
       "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2021-01-21T00:01:54Z",
-      "Size": 1586,
+      "Size": 1605,
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
@@ -1141,7 +1141,7 @@
       "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2021-01-21T00:01:54Z",
-      "Size": 1586,
+      "Size": 1605,
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
@@ -1181,7 +1181,7 @@
       "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
       "Attributes": 8224,
       "LastWriting": "2021-01-21T00:01:54Z",
-      "Size": 1586,
+      "Size": 1605,
       "Hash": "GH3/UW+USOY+pQeBkLM0eSLEs+s"
     },
     {
