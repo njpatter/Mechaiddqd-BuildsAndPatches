@@ -1,0 +1,36 @@
+{
+  "From": "0.1.5",
+  "To": "0.1.6",
+  "Hash": "tV+zoSVPY2i3AUvGdnYunBzC718",
+  "TotalSize": 2125,
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "Mechaiddqd_Data/boot.config",
+      "Attributes": 32,
+      "LastWriting": "2021-01-31T17:51:08.953628Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Mechaiddqd_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2021-01-31T17:51:08.5801159Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "Mechaiddqd_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2021-01-31T17:51:07.409719Z",
+      "Size": 0
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2021-01-31T17:51:25.4464088Z",
+      "Size": 0
+    }
+  ]
+}
